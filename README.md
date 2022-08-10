@@ -60,7 +60,7 @@ Comparing the before and after results for School Spending show that there does 
 
 ![School_Size_After](https://user-images.githubusercontent.com/106631875/184023656-a65cc0f3-b973-4c1f-b6b0-5aad94fefbeb.png)
 
-Comparing the before and after results for School Size show that there does not appear to be any impact on the scores by School Size.
+Comparing the before and after results for School Size show that there does not appear to be a significant impact on the scores by School Size.
 
 **Scores by school type**
 
