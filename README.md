@@ -78,7 +78,7 @@ Comparing the before and after results for School Type show that there does not 
 
 ### The four biggest changes to the results after removing the THS ninth-grade scores from the data are as follows:
 
-1.	The % Passing Reading scores increased by almost 28% 
-2.	The % Passing Math scores increased by over 26%
-3.	The % Overall Passing scores increased by almost 26%
-4.	The scores have the most significant effect at the school level with little impact at the district level
+1.	The % Passing Reading scores for THS increased by almost 28% 
+2.	The % Passing Math scores for THS increased by over 26%
+3.	The % Overall Passing scores for THS increased by almost 26%
+4.	The scores had the most significant effect at the school level with little impact at the district level
